@@ -1,10 +1,10 @@
-package com.example.BENIS.Spring.test1;
+package benis.gesschool.studentsmanagement;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class BenisSpringTest1ApplicationTests {
+class StudentsmanagementApplicationTests {
 
 	@Test
 	void contextLoads() {
